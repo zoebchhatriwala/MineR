@@ -55,7 +55,7 @@ public class DrawingClass extends JFrame{
 			
 			if(Count==total)
 			{
-				JOptionPane.showMessageDialog(null,String.format("You Won at %d Clicks",clk));
+				JOptionPane.showMessageDialog(null,String.format("You Won With %d Clicks",clk));
 				Restart();
 			}
 		
@@ -132,7 +132,7 @@ public class DrawingClass extends JFrame{
 			 {
 				 findBomb();
 				 paint();
-				 JOptionPane.showMessageDialog(null,"You Loose");
+				 JOptionPane.showMessageDialog(null,"You Lost This Game");
 				 Restart();
 			 }
 			else
