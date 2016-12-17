@@ -1,2 +1,5 @@
 # MineR
-A Minesweeper Like Game (Basic) Developed in Java.
+A Minesweeper Game Developed in Java.
+<br />
+<br />
+--- Developed For Learning Purpose ---
